@@ -1,0 +1,30 @@
+.input-form-group {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.input-form-icon i {
+    position: absolute;
+}
+
+.input-form-icon {
+    width: 100%;
+    margin-bottom: 10px;
+    line-height: 25px;
+}
+
+.icon {
+    color: black;
+    padding-top: 2.5px;
+    padding-left: 10px;
+    min-width: 40px;
+}
+
+.input-form {
+    width: 80%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    border-radius: 4px;
+    border: solid 0.5px #D8D8D8;
+}

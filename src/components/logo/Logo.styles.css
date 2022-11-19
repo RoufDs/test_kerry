@@ -1,0 +1,19 @@
+.logo-container {
+  padding: 10px;
+  color: white;
+}
+
+.logo {
+  text-align: center;
+  width: 100px;
+  line-height: 3mm;
+}
+
+.logo span:nth-child(1) {
+  font-size: 24px;
+}
+
+.logo span:nth-child(3) {
+  font-size: 6px;
+  letter-spacing: 1mm;
+}
